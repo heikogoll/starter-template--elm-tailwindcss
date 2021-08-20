@@ -1,0 +1,15 @@
+# Serveral Config Folders
+.*/
+
+# Compilation and Distribution Folders
+build/
+compile/
+elm-stuff/
+repl-temp-*/
+node_modules/
+
+# Environment Variables
+.env
+
+# Local Netlify folder
+.netlify
